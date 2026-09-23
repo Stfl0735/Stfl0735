@@ -1,5 +1,5 @@
 
-Second year Computer Engineering student who interested in Cybersecurity especially offensive security. 
+Third year Computer Engineering student who interested in Cybersecurity especially offensive security. 
 
 Current Targets:
 
