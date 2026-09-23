@@ -3,7 +3,7 @@ Third year Computer Engineering student who interested in Cybersecurity especial
 
 Current Targets:
 
-1) Complete 3 educations from Cisco,Comptia etc.(WIP)(28 February 2026-28 February 2027)
+1) Complete 3 certification from Cisco,Comptia etc.(WIP)(28 February 2026-28 February 2027)
 
 1.1) THM CyberSecurity 101 (18 June 2026) Proof: https://tryhackme.com/certificate/THM-W8VRNUIQVH
 
