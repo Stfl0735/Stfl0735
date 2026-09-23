@@ -13,6 +13,6 @@ Current Targets:
 
 3) Develop a tool which can be described as mixture of nmap and netcat(25.06.2026-?)
 
-4) Solve All CTF's in HTB,THM,WeChall and picoCTF.
+4) Finish in first place from the bottom in an online CTF competition
 
-5) STIRB NICHT WHILE DOING THESE. 
+ 
